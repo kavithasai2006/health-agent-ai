@@ -1,4 +1,5 @@
  🏥 Healthcare AI Agent
+ ---
  📖 Project Description
 Healthcare AI Agent is an AI-powered healthcare assistance system developed using Flask and Google Gemini AI. The application helps users get basic health-related guidance by analyzing symptoms entered through a web interface.
 The system generates possible health suggestions, preventive measures, and general wellness advice in real time using Artificial Intelligence.
